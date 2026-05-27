@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoiceerocess",
+        "uuid": 1962090,
+        "checksum": "lcpjn8"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
